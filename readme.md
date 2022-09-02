@@ -8,8 +8,8 @@
 
 ## Deployed Link
 
-[Link]()
+[Link](https://shwetank-project-1.netlify.app/)
 
 ## Final Result
 
-![Img](/finalresult.png)
+![Img](/result.png)
